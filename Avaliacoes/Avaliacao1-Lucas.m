@@ -13,7 +13,7 @@ idx3 = (U == 3 | U == 6);
 
 X = zeros(1,N);
 
-X(idx1) = 4 * rand(1, sum(idx1)) - 2; % Se idx1 é verdade, então U = 1 ou U = 4, logo, X é intervalo regular de -2 a 2
+X(idx1) = (4 * rand(1, sum(idx1))) - 2; % Se idx1 é verdade, então U = 1 ou U = 4, logo, X é intervalo regular de -2 a 2
 X(idx2) = rand(1,sum(idx2)) < 1/3; % Se idx2 é verdade, então U = 2 ou U = 5, logo, X é Bernoulli 1/3
 X(idx3) = rand(1,sum(idx3)) < 2/3; % Se idx3 é verdade, então U = 3 ou U = 6, logo, X é Bernoulli 2/3
 
