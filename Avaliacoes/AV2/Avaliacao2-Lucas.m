@@ -75,5 +75,3 @@ subplot(2, 2, 4); hold on; grid on;
 bar(x, pmfX_condY_sim(2, :), 'y');
 stem(x, pmfX_condY_teo, 'b', 'LineWidth', 4);
 xlabel('x'); ylabel('(Px(X|Y=4))'); title('Px(X|Y=4)');
-
-
