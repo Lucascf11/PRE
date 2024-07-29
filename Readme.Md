@@ -20,3 +20,8 @@ Avaliação 3 envolve conhecimentos de variáveis aleatórias conjuntamente dist
 Avaliação 4 envolve conhecimentos de vetores aleatórios. Aqui realizamos cálculos do vetor média e da matriz covariância de variáveis aleatórias.
 - [Acesse aqui o documento da resolução teórica do enunciado](/Avaliacoes/AV4/Prova_4_de_PRE.pdf)
 - [Acesse aqui o código da resolução do enunciado](/Avaliacoes/AV4/Avaliacao_4_Lucas.m)
+
+## Avaliação 5
+Avaliação 5 envolve conhecimentos de vetores aleatórios gaussianos.
+- [Acesse aqui o documento da resolução teórica do enunciado](/Avaliacoes/AV5/Prova_5_de_PRE.pdf)
+- [Acesse aqui o código da resolução do enunciado](/Avaliacoes/AV5/Avaliacao_5_Lucas.m)
