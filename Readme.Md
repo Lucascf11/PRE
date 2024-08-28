@@ -25,3 +25,13 @@ Avaliação 4 envolve conhecimentos de vetores aleatórios. Aqui realizamos cál
 Avaliação 5 envolve conhecimentos de vetores aleatórios gaussianos.
 - [Acesse aqui o documento da resolução teórica do enunciado](/Avaliacoes/AV5/Prova_5_de_PRE.pdf)
 - [Acesse aqui o código da resolução do enunciado](/Avaliacoes/AV5/Avaliacao_5_Lucas.m)
+
+## Avaliação 6
+Avaliação 6 envolve conhecimentos de processos de Poisson
+- [Acesse aqui o documento da resolução teórica do enunciado](/Avaliacoes/AV6/Prova_6_de_PRE.pdf)
+- [Acesse aqui o código da resolução do enunciado](/Avaliacoes/AV6/Avaliacao6_Lucas.m)
+
+## Avaliação 7
+Avaliação 7 envolve conhecimentos de processos estocásticos. Nessa avaliação em específico, estamos analisando um FIR 
+- [Acesse aqui o documento da resolução teórica do enunciado](/Avaliacoes/AV7/Prova_7_de_PRE.pdf)
+- [Acesse aqui o código da resolução do enunciado](/Avaliacoes/AV7/Avaliacao_7_Lucas.m)
