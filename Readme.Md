@@ -4,7 +4,6 @@
 
 Avaliação 1 envolve conhecimentos de variáveis aleatórias.
 - [Acesse aqui o código de resolução do Enunciado](/Avaliacoes/AV1/Avaliacao1-Lucas.m)
-- Acesse aqui o documento da resolução de teórica do enunciado (ainda em fase de construção)
 
 ## Avaliação 2
 Avaliação 2 envolve conhecimentos de variáveis aleatórias conjuntamente distribuídas e distribuição condicional
